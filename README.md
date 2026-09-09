@@ -60,7 +60,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?LaisAlvesFe&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 
 - 📧 **Email:** lais.alvesfe16@gmail.com
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/la%C3%ADs-alves-ferraz-732742286/](https://www.linkedin.com/in/la%C3%ADs-alves-ferraz-732742286/)
-- 🐙 **GitHub:** [[github.com/LaisAlvesFe]](https://github.com/LaisAlvesFe)
+- 🐙 **GitHub:** [github.com/LaisAlvesFe](https://github.com/LaisAlvesFe)
 - 📍 Localização: Franca, São Paulo
 
 ---
