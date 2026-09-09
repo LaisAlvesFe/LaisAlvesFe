@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/la%C3%ADs-alves-ferraz-732742286/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:lais.alvesfe16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/LaisAlvesFe">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -51,7 +51,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Estudo-Git](https://github.com/LaisAlvesFe/estudo-git) | Projeto desenvolvido durante a faculdade, para estudo de GIT.
+| [Estudo-Git](https://github.com/LaisAlvesFe/estudo-git) | Projeto desenvolvido durante a faculdade, para estudo de GIT. | `GIT` `GITHUB` |
 
 > 💡 Mais projetos em breve — estou aplicando o que aprendo em Front-end e banco de dados em novos repositórios!
 
@@ -68,8 +68,8 @@
 ### 📫 Como me encontrar
 
 - 📧 **Email:** lais.alvesfe16@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/la%C3%ADs-alves-ferraz-732742286/)
-- 🐙 **GitHub:** [[github.com/seu-usuario]](https://github.com/LaisAlvesFe)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/la%C3%ADs-alves-ferraz-732742286/](https://www.linkedin.com/in/la%C3%ADs-alves-ferraz-732742286/)
+- 🐙 **GitHub:** [[github.com/LaisAlvesFe]](https://github.com/LaisAlvesFe)
 - 📍 Localização: Franca, São Paulo
 
 ---
